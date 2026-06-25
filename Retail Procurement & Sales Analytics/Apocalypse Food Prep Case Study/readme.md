@@ -81,9 +81,8 @@ It answers questions such as:
 │   ├── customer_information.xlsx
 │   └── purchase_tracker.xlsx
 ├── powerbi
-│   └── apocalypse_food_prep_dashboard.pbix
+│   └── DataProfessionalSurveyInsights_v1.pbix
 ├── screenshots
-│   ├── overview.png
-│   ├── store_comparison.png
-│   └── customer_breakdown.png
+│   ├── DataProfessionalSurveyInsights_v1.png
+│   ├── bestPlaceToBuy.png
 └── README.md
